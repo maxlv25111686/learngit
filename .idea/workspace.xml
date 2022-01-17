@@ -59,7 +59,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="max" />
                       </list>
                     </value>
                   </entry>
